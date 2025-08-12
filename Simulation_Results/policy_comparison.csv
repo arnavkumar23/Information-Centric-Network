@@ -1,0 +1,6 @@
+Policy,Iteration,Cache Hit Ratio,Latency,Hop Reduction
+LRU,1,0,0,0
+LFU,1,0,0,0
+FIFO,1,0,0,0
+MRU,1,0,0,0
+FACR,1,0,0,0
